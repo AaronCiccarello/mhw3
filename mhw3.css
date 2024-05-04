@@ -430,6 +430,9 @@ a {
 /* design mobile testato in 667px*/
 
 @media (max-width: 768px) {
+    .BannerWinner{
+        display: none;   
+    }
     .fintoAcquisto{
         display: none;
     }
